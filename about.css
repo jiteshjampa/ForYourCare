@@ -1,0 +1,89 @@
+.navbar-brand img{
+    width:10%;
+}
+.ous{
+    color:brown;
+    font-weight:bold;
+}
+.about{
+    color:rgb(17, 204, 10);
+    font-weight:bold;
+}
+.w{
+    color:rgb(19, 206, 19);
+    font-size:50px;
+
+}
+.y{
+    color:red;
+    font-size:35px;
+}
+.s{
+    color:#060557;
+    margin-top:20px;
+}
+.c{
+    font-weight:500;
+}
+.card-text{
+    font-weight:bold;
+}
+.card-body{
+    margin:9px;
+}
+.card{
+    border:2px solid black;
+    margin:30px;
+}
+span{
+    color:red;
+}
+#our{
+    text-decoration:2px solid #000;
+}
+#physician{
+    color:darkblue;
+    text-decoration:2px solid underline black;
+}
+.image{
+    width:60%;
+}
+.special{
+    background:#d9bbbbd5;
+    padding:30px;
+    margin:30px;
+}
+.text1 img{
+    width:30%;
+    margin-left:30px;
+}
+.link{
+    display:inline;
+    width:13%;
+    margin-left:200px;
+
+}
+#fot{
+    background:#000;
+    color:#fff;
+    text-align:center;
+    padding:30px;
+
+}
+#fot .nav-link:hover{
+background:#2FEE1F;
+border-radius:50%;
+font-weight:bold;
+text-decoration: none;
+}
+.p{
+    margin-right:0px;
+    text-decoration:2px underline;
+}
+.p1{
+    margin-left:20px;
+    text-decoration:2px underline;
+}
+footer{
+    margin-right:170px;
+}

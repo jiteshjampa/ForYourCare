@@ -127,8 +127,8 @@ border:3px solid #CFFFDC;
     width:50%;
 }
 .set {
-width:60%;
-padding-left:60px;
+width:30%;
+padding-left:5px;
 }
 .transbox{
     background-color:#20CCA3;
@@ -136,15 +136,16 @@ padding-left:60px;
     padding-right:90px;
     text-align:center;
     font-size-adjust: auto;
-    padding:40px;
+    padding:20px;
     margin:20px;
-    padding-bottom:70px;
+    padding-bottom:20px;
     padding-left:15px;
     color:#fff;
     font-weight:bold;
+    
 }
 .transbox a{
-    padding-top:20px;
+    
     color:#E900FF;
     font-weight:600;
 }
@@ -170,7 +171,7 @@ padding-left:60px;
     font-weight:600;
 }
 .get{
-    margin-bottom:70px;
+    
     background:#2FEE1F;
     color:#F21B1B;
     font-weight:bold;

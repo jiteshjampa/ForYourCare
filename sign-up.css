@@ -51,4 +51,8 @@ span{
 .navbar-brand{
     font-weight:bold;
 }
+#acc{
+    font-weight:bold;
+    color:blue;
+}
 

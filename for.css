@@ -1,0 +1,250 @@
+.logo{
+    width:5%;
+}
+.ca{
+    color:#000;
+}
+.navbar-brand{
+    margin-right: 90px;
+    font-weight: bold;
+}
+.nav-link{
+    margin-right:130px;
+    color:brown;
+}
+.nav-link:hover{
+    background:grey;
+}
+.btn{
+    margin-right: 30px;;
+}
+.l{
+    font-size:45px;
+}
+.o{
+    font-size:30px;
+    color:cornsilk;
+}
+.container-fluid{
+    padding:10px;
+}
+.btn:hover{
+    color:green;
+}
+.carousel-caption{
+    color:red;
+    text-align: center;
+    padding-right:140px;
+    padding-bottom: 50px;;
+
+}
+#services-offered{
+    background:blue;
+    padding-left:10px;
+}
+#services-offered {
+    text-align:center;
+    color:#fff;
+    padding-top:20px;
+    padding-bottom:50px;
+}
+#services-offered img{
+    width:30px;
+border-radius: 50%;
+background:#fff;
+margin-left:10px;
+padding:3px;
+}
+span{
+    color:red;
+}
+.hos{
+width:300px;
+}
+.img-responsive{
+    width:50px;
+}
+#choose {
+    display:inline;
+    margin-right:40px;
+    color:#000;
+    margin-bottom:30px;
+}
+.coll{
+    background-image:url("The\ James\ Nursing\ Team.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+   
+}
+.col-sm-2{
+    margin-right:140px;
+}
+.card-body{
+    background:green;
+    color:white;
+    padding:30px;
+    margin:15px;
+}
+.card-body:hover{
+    background:blue;
+    opacity:0.6;
+}
+.text-center{
+    padding:10px;
+    text-align:center;
+    text-decoration: 2px underline #fff;;
+}
+.hex{
+    color:white;
+}
+#g{
+    text-decoration:2px underline #000;
+}
+#health{
+    background-color:#7d14be6c;
+    color:rgb(8, 8, 8);
+    font-weight:bold;
+    padding:20px;
+    border:0;
+    border-bottom:3px solid #fff;
+}
+.form-control{
+border:3px solid #CFFFDC;
+}
+#contact{
+    background-image:url("contactous.png");
+    color:#000;
+    font-weight:bold;
+    padding:30px;
+
+}
+#ous{
+    background-color:rgb(236, 212, 212);
+    opacity:0.7;
+    padding:20px;
+}
+#pink{
+    width:50%;
+}
+.set {
+width:30%;
+padding-left:5px;
+}
+.transbox{
+    background-color:#20CCA3;
+    border:2px solid #E900FF ;
+    padding-right:90px;
+    text-align:center;
+    font-size-adjust: auto;
+    padding:20px;
+    margin:20px;
+    padding-bottom:20px;
+    padding-left:15px;
+    color:#fff;
+    font-weight:bold;
+    
+}
+.transbox a{
+    
+    color:#E900FF;
+    font-weight:600;
+}
+.app{
+    width:30%;
+}
+.appiont{
+    text-align:center;
+    background-color:#20CCA3;
+    border:2px solid #E900FF ;
+    margin-top:20px;
+    padding:40px;
+    padding-bottom:10px;
+    color:#fff;
+    
+}
+.appiont:hover{
+    background-color:coral;
+}
+.appiont a{
+    padding-top:60px;
+    color:#E900FF;
+    font-weight:600;
+}
+.get{
+    
+    background:#2FEE1F;
+    color:#F21B1B;
+    font-weight:bold;
+    border:2px solid green;
+}
+.get:hover{
+    background:#000;
+    color:white;
+}
+.mic{
+    width:30%;
+}
+.clinical{
+    text-align:center;
+    background-color:#20CCA3;
+    border:2px solid #E900FF ;
+    padding:40px;
+    margin-top:20px;
+    margin:20px;
+    padding-bottom:54px;
+    color:#fff;
+
+}
+.clinical:hover{
+    background:coral;
+}
+.clinical button{
+    background:#2FEE1F;
+    color:#F21B1B;
+    font-weight:bold;
+    border:2px solid green;
+    margin-bottom:100px;
+
+}
+
+#cont h4{
+    color:rgb(221, 14, 14);
+    font-weight:bold;
+}
+
+.contact form{
+    margin-bottom:14px;
+}
+.link{
+    display:inline;
+    width:13%;
+    margin-left:200px;
+}
+.text1 img{
+    width:30%;
+    margin-left:30px;
+}
+#fot{
+    background:#000;
+    color:#fff;
+    text-align:center;
+    padding:30px;
+
+}
+#fot .nav-link:hover{
+background:#2FEE1F;
+border-radius:50%;
+font-weight:bold;
+text-decoration: none;
+}
+.p{
+    margin-right:130px;
+    text-decoration:2px underline;
+}
+.p1{
+    margin-left:20px;
+    text-decoration:2px underline;
+}
+footer{
+    margin-right:170px;
+}

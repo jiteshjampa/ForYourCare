@@ -1,0 +1,60 @@
+body{
+    background-image: url("sign.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand img{
+    width:8%;
+    text-align:center;
+}
+.sign{
+    background:rgba(219, 4, 4, 0.616);
+    color:white;
+    padding:40px;
+    margin:20px;
+    font-weight:bold;
+    border-radius:15px;
+
+}
+#firstname,#lastname,#Password,#phone,#date,#Username{
+    
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:10px;
+    padding-left:10px;
+    font-weight:bold;
+    text-align:center;
+    color:##24A19C;
+    background: #fff;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+#user{
+    width:15%;
+    background:rgba(219, 4, 4, 0.438);
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.but{
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-left:18px;
+    padding-right:18px;
+    border-radius:20px;
+    font-weight:bold;
+    background:orangered;
+    color:palegoldenrod;
+}
+span{
+    color:red;
+}
+.navbar-brand{
+    font-weight:bold;
+}
+#acc{
+    font-weight:bold;
+    color:blue;
+}
+
